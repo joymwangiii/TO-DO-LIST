@@ -1,0 +1,11 @@
+/* src/styles.css */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #E6E6FA; /* Prevents the background image from repeating */
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: white; /* Change color for better visibility on the background */
+}
